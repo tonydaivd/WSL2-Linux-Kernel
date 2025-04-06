@@ -2883,7 +2883,7 @@ CONFIG_CAN_CALC_BITTIMING=y
 # CONFIG_CAN_GS_USB is not set
 # CONFIG_CAN_KVASER_USB is not set
 # CONFIG_CAN_MCBA_USB is not set
-# CONFIG_CAN_PEAK_USB is not set
+CONFIG_CAN_PEAK_USB=m
 # CONFIG_CAN_UCAN is not set
 # end of CAN USB interfaces
 
